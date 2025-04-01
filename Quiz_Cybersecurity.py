@@ -1,6 +1,7 @@
 import random
 import json
 import time
+#Timed quiz on cybersecurity
 
 def load_questions():
     with open("questions.json", "r") as f:
