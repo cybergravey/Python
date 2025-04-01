@@ -1,0 +1,103 @@
+{"questions": [
+    {
+        "question": "What is the primary purpose of a firewall?",
+        "options": [
+            "To scan for malware on a system",
+            "To block unauthorized network traffic",
+            "To encrypt files for secure storage",
+            "To manage user authentication"
+        ],
+        "answer": "To block unauthorized network traffic"
+    },
+    {
+        "question": "Which hashing algorithm is considered weak due to collision vulnerabilities?",
+        "options": [
+            "SHA-256",
+            "MD5",
+            "AES",
+            "RSA"
+        ],
+        "answer": "MD5"
+    },
+    {
+        "question": "What does the principle of 'least privilege' mean in cybersecurity?",
+        "options": [
+            "Users should only have access necessary for their job role",
+            "All users should have administrative rights",
+            "Users should not be allowed to change their passwords",
+            "Privileged accounts should be shared among employees"
+        ],
+        "answer": "Users should only have access necessary for their job role"
+    },
+    {
+        "question": "Which protocol is used to securely transfer files over a network?",
+        "options": [
+            "FTP",
+            "Telnet",
+            "SFTP",
+            "HTTP"
+        ],
+        "answer": "SFTP"
+    },
+    {
+        "question": "What is the main purpose of a VPN?",
+        "options": [
+            "To improve internet speed",
+            "To provide a secure encrypted connection over an untrusted network",
+            "To block malware from infecting a system",
+            "To manage DNS requests"
+        ],
+        "answer": "To provide a secure encrypted connection over an untrusted network"
+    },
+    {
+        "question": "Which of the following is a social engineering attack?",
+        "options": [
+            "DDoS",
+            "SQL Injection",
+            "Phishing",
+            "Buffer Overflow"
+        ],
+        "answer": "Phishing"
+    },
+    {
+        "question": "What is a zero-day vulnerability?",
+        "options": [
+            "A vulnerability discovered after a patch has been released",
+            "A security flaw unknown to the vendor and unpatched",
+            "A vulnerability that affects only outdated software",
+            "A type of malware that targets operating systems"
+        ],
+        "answer": "A security flaw unknown to the vendor and unpatched"
+    },
+    {
+        "question": "Which security model focuses on preventing unauthorized data modification?",
+        "options": [
+            "Bell-LaPadula",
+            "Biba",
+            "Clark-Wilson",
+            "Brewer-Nash"
+        ],
+        "answer": "Biba"
+    },
+    {
+        "question": "What type of malware encrypts a victim's data and demands payment for its release?",
+        "options": [
+            "Spyware",
+            "Adware",
+            "Ransomware",
+            "Rootkit"
+        ],
+        "answer": "Ransomware"
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery?",
+        "options": [
+            "Network",
+            "Transport",
+            "Data Link",
+            "Application"
+        ],
+        "answer": "Transport"
+    }
+]
+}
