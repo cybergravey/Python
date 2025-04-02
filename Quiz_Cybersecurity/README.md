@@ -12,7 +12,7 @@ Project consists of a Python script that creates a quiz based on Cybersecurity. 
 
 <h2>Environments Used </h2>
 
-- <b>macOS Sequoia Version 15.3.2</b> (21H2)
+- <b>macOS Sequoia Version 15.3.2</b> 
 
 <h2>Program walk-through:</h2>
 
