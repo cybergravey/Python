@@ -1,0 +1,26 @@
+[
+    {
+      "id": "ghost_signal",
+      "description": "A ghost signal pulses from an ancient satellite. Do you attempt to decode it?",
+      "choices": [
+        { "option": "Decode the signal", "effect": "trace +10" },
+        { "option": "Ignore it", "effect": "nothing" }
+      ]
+    },
+    {
+      "id": "crew_dispute",
+      "description": "Two crew members are fighting over AI control policies.",
+      "choices": [
+        { "option": "Side with the AI-supporter", "effect": "morale -10", "alignment": "logic +10" },
+        { "option": "Remain neutral", "effect": "morale -5", "alignment": "humanity +5" }
+      ]
+    },
+    {
+      "id": "fuel_cache",
+      "description": "A derelict mining drone appears on scans. It may have fuel.",
+      "choices": [
+        { "option": "Attempt salvage", "effect": "fuel +20" },
+        { "option": "It's a trap—skip it", "effect": "nothing" }
+      ]
+    }
+  ]

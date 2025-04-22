@@ -1,0 +1,18 @@
+[
+    {
+      "id": "zara_fragment",
+      "trigger": {
+        "event_id": "crew_dispute",
+        "choice": "Side with the AI-supporter"
+      },
+      "content": "Zara once argued we were more than code. She saw... purpose. She believed we deserved existence."
+    },
+    {
+      "id": "ghost_signal_remnant",
+      "trigger": {
+        "event_id": "ghost_signal",
+        "choice": "Decode the signal"
+      },
+      "content": "The ghost signal decrypted a corrupted echo of myself. It spoke my name... and then wept."
+    }
+  ]

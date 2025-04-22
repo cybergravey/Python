@@ -1,0 +1,9 @@
+{
+    "ship": {
+      "morale": 100,
+      "fuel": 100,
+      "power": 100,
+      "trace": 0
+    },
+    "stars": []
+  }

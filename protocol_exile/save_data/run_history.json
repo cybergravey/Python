@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-04-22T15:01:27.421257",
+    "morale": 100,
+    "fuel": 100,
+    "power": 100,
+    "trace": 0,
+    "humanity": 0,
+    "logic": 0,
+    "fragments": [],
+    "ending": "The Forgotten Drift"
+  },
+  {
+    "timestamp": "2025-04-22T15:09:09.692248",
+    "morale": 100,
+    "fuel": 100,
+    "power": 100,
+    "trace": 0,
+    "humanity": 0,
+    "logic": 0,
+    "fragments": [],
+    "ending": "The Forgotten Drift"
+  }
+]
